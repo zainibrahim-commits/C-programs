@@ -15,8 +15,8 @@
 9.Indent both body statements of an if...else statement.
 10.If there are several levels of indentation, each level should be indented the same additional amount of space.
 11.A compound statement can be placed anywhere in a program that a single statement can be placed.
-
-
+12.When performing division by an expression whose value could be zero, explicitly test for this case and handle it appropriately in your program (such as printing an error message) rather than allowing the fatal error to occur.
+13.In a sentinel-controlled loop, the prompts requesting data entry should explicitly remind the user what the sentinel value is.
 
 
 
