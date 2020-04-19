@@ -12,7 +12,9 @@
 6.Multiple-word variable names can help make a program more readable. Separate the words with underscores as in total-commissions, or, if you run the words together, begin each word after the first with a capital letter as in totalCommissions. The latter style is preferred.
 7.Place a space after each comma (,) to make programs more readable.
 8.Place spaces on either side of a binary operator. This makes the operator stand out and makes the program more readable.
-
+9.Indent both body statements of an if...else statement.
+10.If there are several levels of indentation, each level should be indented the same additional amount of space.
+11.A compound statement can be placed anywhere in a program that a single statement can be placed.
 
 
 
