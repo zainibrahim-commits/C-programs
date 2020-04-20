@@ -1,8 +1,7 @@
+#C-programs
+this c codes is for learning and any one can contribute in it just make pullrequest
 
-
-
-
-###Good Programming Practices:-
+##Good Programming Practices:-
 1.Every function should be preceded by a comment describing the purpose of the function.
 2.Add a comment to the line containing the right brace,},that closes every function,including main.
 3.Indent the entire body of each function one level of indentation (we recommend three spaces) within the braces that define the body of the function.This indentation emphasizes the functional structure of programs and helps make programs easier to read.
@@ -17,7 +16,7 @@
 11.A compound statement can be placed anywhere in a program that a single statement can be placed.
 12.When performing division by an expression whose value could be zero, explicitly test for this case and handle it appropriately in your program (such as printing an error message) rather than allowing the fatal error to occur.
 13.In a sentinel-controlled loop, the prompts requesting data entry should explicitly remind the user what the sentinel value is.
-
+14.Unary operators should be placed directly next to their operands with no intervening spaces.
 
 
 
