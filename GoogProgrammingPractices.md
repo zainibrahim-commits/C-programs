@@ -17,6 +17,8 @@ this c codes is for learning and any one can contribute in it just make pullrequ
 12.When performing division by an expression whose value could be zero, explicitly test for this case and handle it appropriately in your program (such as printing an error message) rather than allowing the fatal error to occur.
 13.In a sentinel-controlled loop, the prompts requesting data entry should explicitly remind the user what the sentinel value is.
 14.Unary operators should be placed directly next to their operands with no intervening spaces.
+15.Too many levels of nesting can make a program difficult to understand. As a rule, try to avoid using more than three levels of nesting.
+16.The combination of vertical spacing before and after control statements and indentation of the bodies of control statements within the control-statement headers gives programs a two-dimensional appearance that greatly improves program readability.
 
 
 
