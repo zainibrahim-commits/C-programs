@@ -1,7 +1,7 @@
 # C-programs
 This c programs are for learning and any one can contribute.
 
-##Good Programming Practices:-
+## Good Programming Practices:-
 1.Every function should be preceded by a comment describing the purpose of the function.
 2.Add a comment to the line containing the right brace,},that closes every function,including main.
 3.Indent the entire body of each function one level of indentation (we recommend three spaces) within the braces that define the body of the function.This indentation emphasizes the functional structure of programs and helps make programs easier to read.
