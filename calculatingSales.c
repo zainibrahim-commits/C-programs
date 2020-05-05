@@ -11,8 +11,11 @@ int main () {
   
   while ( product != -1)
   {
-    scanf("%u%u", &product, &quantity);
-    
+    scanf("%u", &product);
+    if ( product == -1)
+      break;   
+ 
+    scanf("%u", &quantity);
     switch (product)
     {
       case 1:
@@ -33,9 +36,6 @@ int main () {
 
       case 5:
         total += (quantity * 6.87);
-        break;
-
-      case -1:
         break;
 
       default:
